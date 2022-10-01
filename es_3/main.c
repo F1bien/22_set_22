@@ -9,7 +9,7 @@
 
 #include <stdio.h>
 
-// funzione èer contrare i careteri al interno di un file
+// funzione per contrare i careteri al interno di un file
 int CountChar( char fileN[] ) { // come argomento viene passato solo il nome del file
 	
 	int count = 0;
