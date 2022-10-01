@@ -3,7 +3,7 @@
 	restituisca il conteggio dei caratteri presenti al suo interno.
 	oppure -1 nel caso in cui non sia possibile accedere al file.
 
-	nel programa nonho condiderato nella conta gli spazi
+	nel programa non ho condiderato nella conta gli spazi
 
 */
 
